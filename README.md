@@ -1,4 +1,4 @@
-It's recommended to enable html5 beta test mode on youtube.com/html5, then
+It's recommended to enable html5 beta test mode on http://youtube.com/html5, then
 youtube will use html5 player if it's possible. In other cases this extension
 will replace flash video player with embedded html5 player (except those videos,
 for which embedding is disallowed by author).
